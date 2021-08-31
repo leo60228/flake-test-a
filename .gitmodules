@@ -1,0 +1,3 @@
+[submodule "flake-test-b"]
+	path = flake-test-b
+	url = https://github.com/leo60228/flake-test-b.git
